@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UW Hub</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_coursesinfo">Courses Information</string>
+    <string name="title_activity_apitest_caller">API Test Caller</string>
+    <string name="title_activity_omguw">OMG UW</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_examinfo">Examination Information</string>
+    <string name="title_activity_foodservices">Food Services</string>
+    <string name="title_activity_staffinfo">Staff Information</string>
+    <string name="title_activity_weather">Weather</string>
+
+</resources>
